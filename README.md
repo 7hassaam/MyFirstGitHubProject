@@ -4,7 +4,7 @@
 This is my first project hosted on GitHub.
 
 #Author
-Student Name
+M.Hassaam
 
 ##Purpose
 Learning repository management and version control.
